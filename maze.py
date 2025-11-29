@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import time
 import tkinter as tk
-from tkinter import ttk # 用于更好看的控件
+from tkinter import ttk 
 
 
 CFG = {
